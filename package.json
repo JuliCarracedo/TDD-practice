@@ -1,0 +1,23 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "This project is for me to practice Test Driven Development",
+  "main": "stringLength.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliCarracedo/TDD-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliCarracedo/TDD-practice/issues"
+  },
+  "homepage": "https://github.com/JuliCarracedo/TDD-practice#readme"
+}
